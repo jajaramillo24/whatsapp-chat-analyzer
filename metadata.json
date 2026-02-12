@@ -1,0 +1,5 @@
+{
+  "name": "WhatsApp Chat Analyzer",
+  "description": "An application to upload and visualize WhatsApp chat history, providing detailed statistics, participant activity, word frequency, and linguistic patterns through interactive charts and graphs.",
+  "requestFramePermissions": []
+}
